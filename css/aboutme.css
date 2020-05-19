@@ -5,6 +5,11 @@
     z-index: 99;
     
 
+} 
+.nav-brand img
+{
+    height: 100px;
+    width: auto;
 }
 
 ::-webkit-scrollbar
@@ -368,4 +373,5 @@ footer.footer .mysocial i
     font-size: 4.5rem !important;
     line-height: 4.5rem !important;
 }
+
 }
